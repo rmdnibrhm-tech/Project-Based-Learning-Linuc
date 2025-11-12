@@ -1,0 +1,15 @@
+cd ~
+mkdir Project_sistem_operasi_B
+cd Project_sistem_operasi_B
+
+
+mkdir src doc data
+
+
+touch README.sh src/main.sh
+
+
+echo "===Struktur Direktori==="
+ls -R                                         
+echo "===Ukuran Direktori==="
+du -sh ~/Project_sistem_operasi_B           
